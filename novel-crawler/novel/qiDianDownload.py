@@ -1,7 +1,6 @@
 """"""
 import requests
 import parsel
-
 from tqdm import tqdm
 
 '''
